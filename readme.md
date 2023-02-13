@@ -1,5 +1,6 @@
-# Descrição do projeto
-Projeto da disciplina Técnicas de Programação I da Formação do Santander Coders em parceria com a Ada.
+### SantanderCoders22-Campeonato Brasileiro :red_circle:
+Exercício final do Módulo 4 (Técnicas de Programação) do curso de WebFullStack do programa Santander Coders, uma parceria entre AdaTech e Santander.  
+Criação de uma tabela com estatisticas do Campeonato Brasileiro:
 
 Realizar leitura de arquivos CSV com os dados de jogos do campeonato brasileiro entre 2003 e 2022 e trazer os seguintes dados:
 
@@ -22,4 +23,3 @@ Realizar leitura de arquivos CSV com os dados de jogos do campeonato brasileiro 
 * Eveliny Muniz 
 * Felipe Menezes de Almeida 
 * Thiago da Silva Costa Santos
-
