@@ -13,10 +13,10 @@ Realizar leitura de arquivos CSV com os dados de jogos do campeonato brasileiro 
 * O Jogador que mais recebeu cartões vermelhos
 * O placar da partida com mais gols.
 
-# Tópicos abordados no projeto
+Tópicos abordados no projeto
 * Streams, LocalDate, lambda expressions
 
-# Integrantes do Grupo
+Integrantes do Grupo
 * Ana Carolina Muratori
 * André Camargo
 * Camila Melo 
