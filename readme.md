@@ -3,7 +3,6 @@ Exercício final do Módulo 4 (Técnicas de Programação) do curso de WebFullSt
 Criação de uma tabela com estatisticas do Campeonato Brasileiro:
 
 Realizar leitura de arquivos CSV com os dados de jogos do campeonato brasileiro entre 2003 e 2022 e trazer os seguintes dados:
-
 * O time que mais venceu jogos no ano 2008
 * O Estado que teve menos jogos dentro do período 2003 e 2022
 * O Jogador que mais fez gols segundo a tabela campeonato-brasileiro-gols
@@ -13,10 +12,10 @@ Realizar leitura de arquivos CSV com os dados de jogos do campeonato brasileiro 
 * O Jogador que mais recebeu cartões vermelhos
 * O placar da partida com mais gols.
 
-Tópicos abordados no projeto
+Tópicos abordados no projeto:
 * Streams, LocalDate, lambda expressions
 
-Integrantes do Grupo
+Projeto em colaboração com:
 * Ana Carolina Muratori
 * André Camargo
 * Camila Melo 
